@@ -1,8 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
-import Link from "next/Link";
+import { ActiveLink } from "./ActiveLink";
 import SignIn from "./SignIn";
 import styles from "./styles.module.scss";
-import { ActiveLink } from "./ActiveLink";
 
 export function Header() {
   return (
