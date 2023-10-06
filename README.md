@@ -1,34 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![Logo](https://cdn.discordapp.com/attachments/1075238095429046282/1159693682421809172/ig.news.png?ex=6531f3e7&is=651f7ee7&hm=bfef03915507a613db015d6747bad62d4cfb71a21ff54e795b47f91633155d14&)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# ig.news
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Project made during the Rocketseat Ignite bootcamp, in the React focused path.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Used Techs
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+**Programming Language**: Typescript.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**Front:** React, Next, NextAuth, SASS.
 
-## Learn More
+**State Management:**  Context API.
 
-To learn more about Next.js, take a look at the following resources:
+**Integrations**: Stripe, Prismic CMS.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Database**: FaunaDB.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Features
+
+- Github social login with NextAuth.
+- Subscription simulation by Stripe.
+- Content management by Prismic.
+- User storage by FaunaDB.
+- Posts static pages.
+
+
+
+
+## Learnings...
+
+- Stripe integration.
+- CMS integration and data comnsuption.
+- Cloud database integration with FaunaDB.
+- Static page generation and Server side rendering by Next.
+
+
+## Screenshots
+![intro](https://cdn.discordapp.com/attachments/1075238095429046282/1159696660889337917/image.png?ex=6531f6ae&is=651f81ae&hm=9aae3b08b9713e1443cee6abeabfaed8548346e03d473f90ab8e2487fa502711&)
+
+![posts](https://cdn.discordapp.com/attachments/1075238095429046282/1159696661195526194/image.png?ex=6531f6ae&is=651f81ae&hm=56753eb785cb402c7c52c327a7aaa13951ac44bf550411e3cc59675288d54784&)
+
+![post detail](https://cdn.discordapp.com/attachments/1075238095429046282/1159696661489135697/image.png?ex=6531f6ae&is=651f81ae&hm=2ae12ff9f2dab0784b39243ba1af2382c95b2e1e2ad595f185b8a7d2902b4b56&)
+
