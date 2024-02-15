@@ -4,7 +4,7 @@
 
 # ig.news
 
-Project made during the Rocketseat Ignite bootcamp, in the React focused path.
+ig.news is an app inspired in subscription based blogs, like "Medium", using Stripe to simulate subscription.
 
 ## Used Techs
 
