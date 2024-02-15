@@ -4,7 +4,7 @@
 
 # ig.news
 
-ig.news is an app inspired in subscription based blogs, like "Medium", using Stripe to simulate subscription.
+ig.news is a Jamstack app, built with Next.js and inspired in subscription based blogs, like "Medium", using Stripe to simulate subscription.
 
 ## Used Techs
 
